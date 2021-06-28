@@ -25,8 +25,8 @@
 - Tar/Unzip G-Drive link support
 - Sudo with Database support
 - Multiple Trackers support
-- Extracting **tar.xz** support
 - Check Heroku dynos stats
+- Extracting **tar.xz** support
 - Heroku config support
 - Custom Image support
 - Counting file/folder

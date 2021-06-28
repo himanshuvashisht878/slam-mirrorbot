@@ -17,7 +17,7 @@
 
 # Features supported:
 ## Additional Features
-- Updater (Only for Heroku) (**NOTE**: You must upload your **token.pickle** to Index and fill your **token.pickle** url to **TOKEN_PICKLE_URL**, because your **token.pickle** will deleted after update)
+- Updater (**NOTE**: You must upload your **token.pickle** to Index and fill your **token.pickle** url to **TOKEN_PICKLE_URL**, because your **token.pickle** will deleted after update)
 - Limiting size Torrent/Direct, Mega, cloning Google Drive support
 - Get detailed info about replied media (Only for Telegram file)
 - Stop duplicate cloning Google Drive & mirroring Mega support
@@ -28,7 +28,7 @@
 - Multiple Trackers support
 - Check Heroku dynos stats
 - Heroku config support
-- Custom image support
+- Custom Image support
 - Counting file/folder
 - View Link button
 - Shell and Eval

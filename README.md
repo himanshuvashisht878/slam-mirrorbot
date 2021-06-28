@@ -17,21 +17,21 @@
 
 # Features supported:
 ## Additional Features
-- Get detailed info about replied media (Only for Telegram file)
-- Speedtest with picture results
-- Stop duplicate cloning Google Drive & mirroring Mega support
+- Updater (Only for Heroku) (**NOTE**: You must upload your **token.pickle** to Index and fill your **token.pickle** url to **TOKEN_PICKLE_URL**, because your **token.pickle** will deleted after update)
 - Limiting size Torrent/Direct, Mega, cloning Google Drive support
+- Get detailed info about replied media (Only for Telegram file)
+- Stop duplicate cloning Google Drive & mirroring Mega support
+- Speedtest with picture results
+- Tar/Unzip G-Drive link support
+- Extracting **tar.xz** support
 - Sudo with Database support
 - Multiple Trackers support
 - Check Heroku dynos stats
 - Heroku config support
-- Updater (**NOTE**: You must upload your **token.pickle** to Index and fill your **token.pickle** url to **TOKEN_PICKLE_URL**, because your **token.pickle** will deleted after update) 
-- Extracting **tar.xz** support
-- Create Tar Google Drive folder
 - Custom image support
 - Counting file/folder
-- Shell and Eval
 - View Link button
+- Shell and Eval
 - Torrent search supported:
 ```
 nyaa, sukebei, 1337x, piratebay, tgx,

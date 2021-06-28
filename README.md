@@ -23,9 +23,9 @@
 - Stop duplicate cloning Google Drive & mirroring Mega support
 - Speedtest with picture results
 - Tar/Unzip G-Drive link support
-- Extracting **tar.xz** support
 - Sudo with Database support
 - Multiple Trackers support
+- Extracting **tar.xz** support
 - Check Heroku dynos stats
 - Heroku config support
 - Custom Image support

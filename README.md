@@ -30,7 +30,7 @@
 - Create Tar Google Drive folder
 - Custom image support
 - Counting file/folder
-- Shell and Executor
+- Shell and Eval
 - View Link button
 - Torrent search supported:
 ```
@@ -46,7 +46,7 @@ feurl.com, pixeldrain.com, uptobox.com (Uptobox account must be premium),
 ```
 ## From Original Repos
 - Mirroring direct download links, Torrent, and Telegram files to Google Drive
-- Mirroring Mega.nz links to Google Drive (If your Mega account not premium, it will limit 4-5gb/day)
+- Mirroring Mega.nz links to Google Drive (If your Mega account not premium, it will limit 5GB/6 hours)
 - Copy files from someone's Drive to your Drive (Using Autorclone)
 - Download/Upload progress, Speeds and ETAs
 - Mirror all Youtube-dl supported links
@@ -95,7 +95,7 @@ pip3 install -r requirements-cli.txt
 ```
 ## Generate Database
 <details>
-    <summary><b>Click here for more details</b></summary>
+    <summary><b>Click Here For More Details</b></summary>
 
 **1. Using ElephantSQL**
 - Go to https://elephantsql.com/ and create account (skip this if you already have ElephantSQL account)
@@ -116,7 +116,7 @@ pip3 install -r requirements-cli.txt
 
 ## Setting up config file
 <details>
-    <summary><b>Click here for more details</b></summary>
+    <summary><b>Click Here For More Details</b></summary>
 
 ```
 cp config_sample.env config.env
@@ -230,7 +230,7 @@ Many thanks to [AutoRClone](https://github.com/xyou365/AutoRclone) for the scrip
 
 ## Generate Service Accounts. [What is Service Account](https://cloud.google.com/iam/docs/service-accounts)
 <details>
-    <summary><b>Click here for more details</b></summary>
+    <summary><b>Click Here For More Details</b></summary>
 
 Let us create only the Service Accounts that we need. 
 **Warning**: abuse of this feature is not the aim of this project and we do **NOT** recommend that you make a lot of projects, just one project and 100 SAs allow you plenty of use, its also possible that over abuse might get your projects banned by Google. 
